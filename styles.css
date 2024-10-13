@@ -1,0 +1,14 @@
+body {
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Ensures body takes full viewport height */
+}
+
+h1 {
+    border: 3px solid black; /* Corrected typo */
+    padding: 10px; /* Adds some space inside the border */
+    color: white; /* Changes text color for better contrast */
+    text-align: center; /* Centers the text within the heading */
+}
